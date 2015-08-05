@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.263,C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.pas=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\uUpdater.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.181,=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.pas=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\uAppForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.023,C:\Users\Максим\Google Диск\Projects\App_Win\uLocalOptions.pas=C:\Users\Максим\Google Диск\Projects\App_Win\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,C:\Users\Максим\Google Диск\Projects\App_Win\uFloatForm.pas=C:\Users\Максим\Google Диск\Projects\App_Win\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.pas=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\uAppointmentViewForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.339,=C:\Users\Максим\Google Диск\Projects\App_Win\GoogleMaps.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,C:\Users\Bolotov.m\Google Диск\Projects\App_Win\uAwaitingForm.dfm=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.692,=C:\Users\Максим\Google Диск\Projects\App_Win\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,C:\Users\Bolotov.m\Google Диск\Projects\App_Win\uAwaitingForm.pas=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,C:\Users\Максим\Google Диск\Projects\App_Win\uFloatForm.dfm=C:\Users\Максим\Google Диск\Projects\App_Win\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.634,=C:\Users\Максим\Google Диск\Projects\App_Win\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.679,=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.886,=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.dfm=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\uAppointmentViewForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,C:\Users\Bolotov.m\Google Диск\Projects\App_Win\Unit1.dfm=C:\Users\Bolotov.m\Google Диск\Projects\App_Win\uAppForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
